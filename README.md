@@ -1,7 +1,7 @@
 # RandomForest usando modelo Titanic do Kaggle 
 O material foi feito para aqueles que desejam desenvolver suas habilidades na construção de modelos preditivos utilizando a ferramenta de análise de dados R
 
-###Neste material você vai ver
+### Neste material você vai ver
 - Importação de dados
 - Criação de novas variáveis
 - Tratamento de dados faltantes
