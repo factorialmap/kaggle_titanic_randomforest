@@ -8,4 +8,4 @@ O material foi feito para aqueles que desejam desenvolver suas habilidades na co
 - Unidão de datasets usando rbind função nativa do R ou (R based)
 - Split de datasets em treino e teste.
 - Criação de modelo usando RandomForest
-- Gravação dos dados para submissão do Kaggle
+- Gravação dos dados para submissão no Kaggle
