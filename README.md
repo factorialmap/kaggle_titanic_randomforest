@@ -1,7 +1,7 @@
 # Material utilizado nos vídeos sobre RandomForest usando modelo Titanic do Kaggle 
 
 ### Objetivo:
-- O material foi feito para aqueles que desejam desenvolver suas habilidades na construção de modelos preditivos utilizando a ferramenta de análise de dados R
+- Auxiliar no desenvolvimento de suas as habilidades na construção de modelos preditivos basedos em machine learning com a ferramenta de análise de dados R
 
 ### Neste material você vai ver:
 - Importação de dados
