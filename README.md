@@ -4,7 +4,7 @@
   * [Objetivo](#Objetivo)
   * [Conteúdo do vídeo](#Neste-material-você-vai-ver)
   * [Foco do material](#Foco)        
-  * [Exemplo de práticos ou uso comercial](#Alguns)
+  * [Exemplo de práticos ou uso comercial](#Exemplos-práticos-ou-de-uso-comercial)
 
 ### Objetivo:
 - Auxiliar no desenvolvimento de suas as habilidades na construção de modelos preditivos basedos em machine learning com a ferramenta de análise de dados R
@@ -27,7 +27,7 @@
 - Embora o evento apresentado no modelo seja de impossivel previsão futura(novos titanics afundando). A mecanica pode ser aplicada nos mais
 diversos tipos de situações e áreas que envolvam "classificação", pois embora eu não acredite que o conceito seja atemporal, a velocidade da mudança é extremamente mais lenta. 
 
-### Alguns exemplos de questões que envolvem classificação:
+### Exemplos práticos ou de uso comercial
   1. Será que vai haver recessão?
   2. Será que o cliente vai gostar do produto?
   3. Será que o tratamento será eficaz?
