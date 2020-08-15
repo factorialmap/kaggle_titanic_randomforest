@@ -1,8 +1,6 @@
-# Material utilizado nos vídeos sobre RandomForest usando modelo Titanic do Kaggle 
+## Material utilizado nos vídeos sobre RandomForest usando modelo Titanic do Kaggle 
 
-Table of Contents
-=================
-
+### Conteúdo:
   * [Objetivo](#Objetivo)
   * [Conteúdo do vídeo](#Neste)
   * [Foco do material](#Foco)        
