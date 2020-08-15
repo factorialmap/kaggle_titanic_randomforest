@@ -2,7 +2,7 @@
 
 ### Conteúdo:
   * [Objetivo](#Objetivo)
-  * [Conteúdo do vídeo](#Neste-material-você-vai-ver)
+  * [Conteúdo do material](#Neste-material-você-vai-ver)
   * [Foco do material](#Foco)        
   * [Exemplo de práticos ou uso comercial](#Exemplos-práticos-ou-de-uso-comercial)
 
