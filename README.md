@@ -1,5 +1,13 @@
 # Material utilizado nos vídeos sobre RandomForest usando modelo Titanic do Kaggle 
 
+Table of Contents
+=================
+
+  * [Objetivo](#Objetivo)
+  * [Conteúdo do vídeo](#Neste material você vai ver)
+  * [Foco do material](#Foco)        
+  * [Exemplo de práticos ou uso comercial](#Alguns exemplos de questões que envolvem classificação:)
+
 ### Objetivo:
 - Auxiliar no desenvolvimento de suas as habilidades na construção de modelos preditivos basedos em machine learning com a ferramenta de análise de dados R
 
