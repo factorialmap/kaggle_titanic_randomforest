@@ -1,6 +1,6 @@
 # Material utilizado nos vídeos sobre RandomForest usando modelo Titanic do Kaggle 
 
-**Objetivo:** 
+### Objetivo:
 - O material foi feito para aqueles que desejam desenvolver suas habilidades na construção de modelos preditivos utilizando a ferramenta de análise de dados R
 
 ### Neste material você vai ver
@@ -12,7 +12,7 @@
 - Criação de modelo usando RandomForest
 - Gravação dos dados para submissão no Kaggle
 
-**Foco:** 
+### Foco: 
 - No entendimento da mecanica por traz dos modelos preditivos cada vez mais utilizados por diversos tipos de negócio.
   1. Os modelos de previsão analisam padrões nos dados históricos e associam estes aos resultados futuros.
   2. Com base nos dados do passado, os modelos de previsão aprendem esses padrões e os resultados que eles geraram.
@@ -21,7 +21,7 @@
 - Embora o evento apresentado no modelo seja de impossivel previsão futura(novos titanics afundando). A mecanica pode ser aplicada nos mais
 diversos tipos de situações e áreas que envolvam "classificação", pois embora eu não acredite que o conceito seja atemporal, a velocidade da mudança é extremamente mais lenta. 
 
-**Alguns exemplos de questões que envolvem classificação:**
+### Alguns exemplos de questões que envolvem classificação:
   1. Será que vai haver recessão?
   2. Será que o cliente vai gostar do produto?
   3. Será que o tratamento será eficaz?
