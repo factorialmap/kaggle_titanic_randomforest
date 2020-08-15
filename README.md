@@ -7,9 +7,9 @@
 - Importação de dados
 - Criação de novas variáveis
 - Tratamento de dados faltantes
-- Unidão de datasets usando rbind função nativa do R ou (R based)
+- Unidão de datasets usando a função rbind nativa do R
 - Split de datasets em treino e teste.
-- Criação de modelo usando RandomForest
+- Criação de modelo de classificação usando RandomForest
 - Gravação dos dados para submissão no Kaggle
 
 ### Foco: 
@@ -26,7 +26,7 @@ diversos tipos de situações e áreas que envolvam "classificação", pois embo
   2. Será que o cliente vai gostar do produto?
   3. Será que o tratamento será eficaz?
   4. Será que este tomador de crédito vai me dar calote?
-  5. Será que essa transação é fraudulenta?0
+  5. Será que essa transação é fraudulenta?
   
   
   
