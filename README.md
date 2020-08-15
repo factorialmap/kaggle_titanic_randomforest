@@ -4,9 +4,9 @@ Table of Contents
 =================
 
   * [Objetivo](#Objetivo)
-  * [Conteúdo do vídeo](#Neste_material_você_vai_ver)
+  * [Conteúdo do vídeo](#Neste)
   * [Foco do material](#Foco)        
-  * [Exemplo de práticos ou uso comercial](#Alguns exemplos de questões que envolvem classificação:)
+  * [Exemplo de práticos ou uso comercial](#Alguns)
 
 ### Objetivo:
 - Auxiliar no desenvolvimento de suas as habilidades na construção de modelos preditivos basedos em machine learning com a ferramenta de análise de dados R
